@@ -1,5 +1,5 @@
 import React from "react";
-import data from "../data.js";
+
 import {useState} from "react";
 import DishList from "./DishList";
 import PriceFilter from "./PriceFilter";
